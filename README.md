@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Modulo 2
+este paso es como crear un repositorio desde github y cloanrlo a mi repositorio local. supongo que despues podremos updatear desde aqui directamente actualizandolo con un commit en la terminal o algo asi.
